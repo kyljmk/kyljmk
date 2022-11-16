@@ -31,7 +31,7 @@ _I am a fullstack .NET software developer with a penchant for React. I was born 
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify" />
 <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman" />
-<img src="https://img.shields.io/badge/material--ui-#007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="material ui" />
+<img src="https://img.shields.io/badge/material--ui-0081CB?style=for-the-badge&logo=materialui&logoColor=white" alt="material ui" />
 <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" />
 
 </div>
