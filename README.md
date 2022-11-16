@@ -37,4 +37,27 @@ _I am a fullstack .NET software developer with a penchant for React. I was born 
 <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" />
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats" alt="my github stats">
+# GitHub Stats 📊
+
+<div align="center">
+  <table width="100%">
+    <tbody>
+      <tr>
+        <td width="50%" style="border: none !important;">
+        <div align="center" width="100%">
+          <a href="https://github.com/kyljmk">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyljmk&hide=ruby&layout=compact&hide_border=true&langs_count=6" alt="My GitHub Language Stats" vertical-align="middle"/>
+          </a>
+        </div>
+        </td>
+        <td width="50%" style="border: none !important;">
+        <div align="center" width="100%">
+          <a href="https://github.com/kyljmk">
+            <img src="https://github-readme-stats.vercel.app/api?username=kyljmk&show_icons=true&hide=stars&hide_border=true" alt="My GitHub Stats" vertical-align="middle"/>
+          </a>
+        </div>
+        </td>
+      </tr>
+    </tbody>
+  <table>
+<div>
