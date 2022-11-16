@@ -11,13 +11,9 @@ _I am a fullstack .NET software developer with a penchant for React. I was born 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react" />
 
-<img src="https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="jest" />
-<img src="https://img.shields.io/badge/enzyme-FF5A5F?style=for-the-badge&logo=airbnb&logoColor=white" alt="enzyme" />
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
-<img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="ruby" />
-<img src="https://img.shields.io/badge/Ruby%20on%20rails-CC0000?style=for-the-badge&logo=ruby%20on%20rails&logoColor=white" alt="rails" />
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" />
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" />
+<img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="reactnative" />
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown" />
 <img src="https://img.shields.io/badge/SQL-407AFC?style=for-the-badge&logo=icloud&logoColor=white" alt="sql" />
 <img src="https://img.shields.io/badge/datagrip-000000?style=for-the-badge&logo=datagrip&logoColor=white" alt="datagrip" />
@@ -27,6 +23,7 @@ _I am a fullstack .NET software developer with a penchant for React. I was born 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
 <img src="https://img.shields.io/badge/vs%20code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vs code" />
+<img src="https://img.shields.io/badge/mocha-663100?style=for-the-badge&logo=mocha&logoColor=white" alt="mocha" />
 <img src="https://img.shields.io/badge/terminal%20commands-black?style=for-the-badge&logo=windows%20terminal&logoColor=white" alt="terminal" />
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
 
