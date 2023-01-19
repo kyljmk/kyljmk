@@ -1,6 +1,6 @@
 <div align="center">
 <img src="/logo.png" alt="my logo"/>
-</div>
+</div align="center">
 
 # About Me 📖
 
