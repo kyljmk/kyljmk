@@ -4,7 +4,7 @@
 
 # About Me 📖
 
-_I am a fullstack .NET software developer with a penchant for React. I was born in South Africa, and have lived in the UK, Austria and Spain, before settling in Sweden. It was in Stockholm where I discovered the fullstack course at the School of Applied Technology, allowing me to leave the hospitality industry after 15 years and finally begin my career in programming._
+_I am a fullstack .NET software developer with a penchant for React. I was born in South Africa, and have lived in the UK, Austria and Spain, before settling in Sweden. It was in Stockholm where I discovered the fullstack course at the School of Applied Technology, allowing me to leave the hospitality industry after 15 years and finally turn my hobby of coding into a career in programming._
 
 # Languages, Tools, and Skills 🛠
 
@@ -13,6 +13,7 @@ _I am a fullstack .NET software developer with a penchant for React. I was born 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react" />
 <img src="https://img.shields.io/badge/c%23-A179DC?style=for-the-badge&logo=csharp&logoColor=white" alt="c#" />
+<img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" />
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" />
 <img src="https://img.shields.io/badge/tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="tailwind css" />
